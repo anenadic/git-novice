@@ -403,7 +403,7 @@ than you would like!
 In FCM there is no concept of a staging area.
 FCM will commit all file modifications at once.
 This can lead to rather large commits.
-In git remember to break down commits into small logical chunks.
+In Git remember to break down commits into small logical chunks.
 
 ```bash
 $ git add <file>
