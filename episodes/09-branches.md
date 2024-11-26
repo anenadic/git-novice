@@ -129,7 +129,7 @@ Say we want to add a longer seasonal forecast to our repository.
 We should make a branch to develop our changes on.
 There are several ways to create a branch and switch to the new branch.
 While it's good to be aware of all these different methods we
-recommend using `git switch -c`
+recommend using `git switch -c`.
 
 You should ensure the branch has a suitable name 
 which will help you identify what the branch is for; even after several 
