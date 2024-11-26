@@ -317,7 +317,7 @@ git config --global --add difftool.prompt false
 ```
 
 Where `<tool>` is your preferred diffing tool such as [meld](https://gnome.pages.gitlab.gnome.org/meld/).
-The third line disables the git prompt which asks you to confirm
+The third line disables the Git prompt which asks you to confirm
 whether to launch the diff for every changed file.
 
 :::
