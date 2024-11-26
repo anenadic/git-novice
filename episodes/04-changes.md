@@ -725,9 +725,9 @@ $ git commit -m "Add in the temperature to the forecast and create the weather a
 
 - Create a new Git repository on your computer called `bio`.
 - Write a three-line biography for yourself in a file called `me.txt`,
-  commit your changes
+  commit your changes.
 - Modify one line, add a fourth line
-- Display the differences
+- Display the differences.
   between its updated state and its original state.
 
 :::::::::::::::  solution
