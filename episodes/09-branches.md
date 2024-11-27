@@ -123,7 +123,7 @@ Our current repository looks something like this:
 ```
 
 All our commits, the circles with commit IDs, are on the main branch,
-the horizontal blue line.
+the top horizontal line.
 
 Say we want to add a longer seasonal forecast to our repository.
 We should make a branch to develop our changes on.
